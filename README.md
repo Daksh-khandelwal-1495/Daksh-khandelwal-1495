@@ -1,6 +1,8 @@
 ## Hi there 👋
 🎓I'm a CS Undergrad, batch'26.
+
 🌱I'm Currently learning and experimenting with Fullstack Development. 
+
 📫 How to reach me: dakshkh.dk@gmail.com
 
 Checkout my badges:
