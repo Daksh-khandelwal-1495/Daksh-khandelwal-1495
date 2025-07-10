@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an integrated financial full-stack project.<br>👯 I’m looking to collaborate on learning ML.<br>🌱 I’m currently learning Fullstack Development and ML.<br>
+<br>👯 I’m looking to collaborate on learning ML.<br>🌱 I’m currently learning Fullstack Development and ML.<br>
 
 
 ## 🌐 Socials:
